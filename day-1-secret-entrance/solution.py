@@ -1,5 +1,3 @@
-import pyxel
-
 def read_input(inp):
     with open(inp) as f:
         rotations = []
@@ -31,16 +29,6 @@ def part2(rotations):
                 zeroes += 1
 
     return zeroes
-
-def update():
-    pass
-
-def draw():
-    pyxel.circ(60, 60, 60, 4)
-
-pyxel.init(120, 120, title='Secret Entrance')
-
-pyxel.run(update, draw)
 
 
 print('Part 1:', part1(read_input('input')))
