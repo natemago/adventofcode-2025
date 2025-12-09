@@ -8,3 +8,4 @@ AdventOfCode 2025 solutions
 - [Day 5 - Cafeteria :coffee: :tea:](./day-5-cafeteria)
 - [Day 6 - Trash compactor :clipboard: :clipboard:](./day-6-trash-compactor)
 - [Day 7 - Laboratories :zap: :computer:](./day-7-laboratories)
+- [Day 8 - Playground :electric_plug: :electric_plug:](./day-8-playground)
