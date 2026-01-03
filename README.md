@@ -12,3 +12,4 @@ AdventOfCode 2025 solutions
 - [Day 9 - Movie theater :construction:](./day-9-movie-theater/)
 - [Day 10 - Factory :construction:](./day-10-factory/)
 - [Day 11 - Reactor :electric_plug: :electric_plug: :electric_plug:](./day-11-reactor)
+- [Day 12 - Christmas Tree farm :christmas_tree: :christmas_tree: :christmas_tree:](./day-12-christmas-tree-farm)
