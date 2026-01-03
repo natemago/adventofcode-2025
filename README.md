@@ -9,3 +9,6 @@ AdventOfCode 2025 solutions
 - [Day 6 - Trash compactor :clipboard: :clipboard:](./day-6-trash-compactor)
 - [Day 7 - Laboratories :zap: :computer:](./day-7-laboratories)
 - [Day 8 - Playground :electric_plug: :electric_plug:](./day-8-playground)
+- [Day 9 - Movie theater :construction:](./day-9-movie-theater/)
+- [Day 10 - Factory :construction:](./day-10-factory/)
+- [Day 11 - Reactor :electric_plug: :electric_plug: :electric_plug:](./day-11-reactor)
